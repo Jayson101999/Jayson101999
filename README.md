@@ -9,15 +9,15 @@
 </div>
 <div class="row">
 <div class="col-4 text-center">
-<label id="product1"> iPhone 13 512GB Blue - Apple (PH) </label>
-<img src="image.png" style="width: 400px;height:500px;" class="img-image.png"/><br>
+<label id="product1"> Apple iPhone XR </label>
+<img src="uploaded_c48f0ff4ab0930d1340e3fcfd3138eb4" style="width: 400px;height:500px;" class="img-thumbnail"/><br>
 <label for="product1" id="price1">2000.00</label>
 <input type="number" class="form-control" id="qty1" placeholder="Enter quantity"/><br>
 </div>
 <div class="col-4 text-center">
 <label id="product2"> Samsung S22</label>
 <img src="images/s22.png" style="width: 400px;height:500px;" class="img-thumbnail"/><br>
-<label for="product2" id="price2">37000.00</label>
+<label for="product2" id="price2">₱ 10,224.37 - ₱ 29,366.00</label>
 <input type="number" class="form-control" id="qty2" placeholder="Enter quantity"/><br>
 </div>
 <div class="col-4">
