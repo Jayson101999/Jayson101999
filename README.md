@@ -10,7 +10,7 @@
 <div class="row">
 <div class="col-4 text-center">
 <label id="product1"> Apple iPhone XR </label>
-<img src="uploaded_c48f0ff4ab0930d1340e3fcfd3138eb4" style="width: 400px;height:500px;" class="img-thumbnail"/><br>
+<img src="uploaded_c48f0ff4ab0930d1340e3fcfd3138eb4.jpeg" style="width: 400px;height:500px;" class="img-thumbnail"/><br>
 <label for="product1" id="price1">₱10,224.37 - ₱29,366.00</label>
 <input type="number" class="form-control" id="qty1" placeholder="Enter quantity"/><br>
 </div>
