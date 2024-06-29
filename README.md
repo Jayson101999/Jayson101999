@@ -9,8 +9,8 @@
 </div>
 <div class="row">
 <div class="col-4 text-center">
-<label id="product1"> Samsung S21 </label>
-<img src="images.png" style="width: 400px;height:500px;" class="img-thumbnail"/><br>
+<label id="product1"> iPhone 13 512GB Blue - Apple (PH) </label>
+<img src="image.png" style="width: 400px;height:500px;" class="img-thumbnail"/><br>
 <label for="product1" id="price1">2000.00</label>
 <input type="number" class="form-control" id="qty1" placeholder="Enter quantity"/><br>
 </div>
